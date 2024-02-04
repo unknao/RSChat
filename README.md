@@ -1,4 +1,6 @@
 # RSChat
+![Workshop thumbnail image.](https://github.com/unknao/RSChat/blob/main/RSChat_WS2.jpg)
+
 ***A RuneScape-styled overhead chat display***
 
 Doesn't work on player models without a head bone.
