@@ -18,7 +18,6 @@ surface.CreateFont(tag, {
 })
 
 hook.Add("OnPlayerChat", tag, function(ply, text, isTeam)
-	print(ply, text, isTeam)
 	if not IsValid(ply) then return end
 	if isTeam then return end
 
